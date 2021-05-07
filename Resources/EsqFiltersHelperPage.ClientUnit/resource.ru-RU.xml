@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Генератор esq фильтров" />
+			<Item Name="LocalizableStrings.NewTab1Caption.Value" Value="Результат" />
+			<Item Name="LocalizableStrings.NewTab1Group1Caption.Value" Value="ESQ Filters" />
+			<Item Name="Parameters.50eaf6ab-5f8b-41a5-81d6-14cae54d2e54.Caption" Value="Схема" />
+			<Item Name="Parameters.81dd2cc0-71c1-4dff-a2e3-571eb69cf93b.Caption" Value="Esq filters" />
+			<Item Name="Parameters.c49bd85e-159a-49ee-b10a-3c3bca63d7d5.Value.b8bc685a-df16-4a81-923b-a65a33b3a671.Caption" Value="Проверить" />
+			<Item Name="Parameters.c49bd85e-159a-49ee-b10a-3c3bca63d7d5.Value.c4841740-ff8c-406f-8626-1c78f78608bf.Caption" Value="Закрыть" />
+		</Items>
+	</Group>
+</Resources>

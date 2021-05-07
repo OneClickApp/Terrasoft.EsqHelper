@@ -1,0 +1,20 @@
+﻿{
+  "Descriptor": {
+    "UId": "f29a3d3f-6f7d-4c7c-a7fc-df1f782ad0b9",
+    "Name": "EsqHelper",
+    "ModifiedOnUtc": "\/Date(1614840940000)\/",
+    "Maintainer": "Custom",
+    "DependsOn": [
+      {
+        "UId": "613fd913-be03-46ce-909b-f44e4225469e",
+        "PackageVersion": "7.8.0",
+        "Name": "UIv2"
+      },
+      {
+        "UId": "c3748e81-246e-4293-85a1-d88d3ab9ff4d",
+        "PackageVersion": "7.8.0",
+        "Name": "Wizards"
+      }
+    ]
+  }
+}

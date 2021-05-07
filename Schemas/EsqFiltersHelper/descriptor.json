@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "a373c591-75a7-4b42-b7ae-2a9141384e03",
+    "Name": "EsqFiltersHelper",
+    "ModifiedOnUtc": "\/Date(1606244338000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "ESQ Filters Helper",
+    "DependsOn": []
+  }
+}
