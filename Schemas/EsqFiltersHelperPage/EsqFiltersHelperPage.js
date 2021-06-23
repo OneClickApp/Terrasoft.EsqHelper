@@ -35,7 +35,7 @@ define("EsqFiltersHelperPage", [], function() {
 			onSchemaNameChange: function(){
 				this.updateFilter();
 			},
-			
+			//123
 			updateFilter: function() {
 				var moduleId = this.sandbox.id + "_ExtendedFilterEditModule";
 				this.sandbox.subscribe("OnFiltersChanged", function(args) {
