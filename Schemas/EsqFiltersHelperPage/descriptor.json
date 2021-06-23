@@ -2,13 +2,12 @@
   "Descriptor": {
     "UId": "dbb8d74f-fd08-4e43-9741-7f59034e4171",
     "Name": "EsqFiltersHelperPage",
-    "ModifiedOnUtc": "\/Date(1606245074000)\/",
+    "ModifiedOnUtc": "\/Date(1624367336000)\/",
     "Parent": {
       "UId": "0fc280ad-cec2-41a2-94f6-bf153a37291f",
       "Name": "BasePageLeftContainerProcessTemplate"
     },
     "ManagerName": "ClientUnitSchemaManager",
-    "Caption": "Генератор esq фильтров",
-    "DependsOn": []
+    "Caption": "Генератор esq фильтров"
   }
 }
